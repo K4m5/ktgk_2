@@ -17,6 +17,13 @@ Cài Đặt Composer: Chạy tập tin tải về để cài đặt Composer tr�
 - Khởi Động Server Laravel: Sử dụng Artisan CLI để khởi động server tích hợp của Laravel: php artisan serve 
 - Mở trình duyệt và truy cập địa chỉ [http://localhost:8000/](http://127.0.0.1:8000/helloWorld) để xem trang chủ của dự án Laravel.
 
+-File HelloWorld.blade.php
+resources/views/helloWorld.blade.php
+-File HelloWorldController.php
+app/Http/Controllers/HelloWorldController.php
+-config route
+routes/web.php
 
 
 ![image](https://github.com/K4m5/ktgk_2/assets/142299996/98d59ac9-6acb-4799-93d5-ae7ab8abfff5)
+
